@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>307188946999-1uoem5fctrv5fe44n31oci2iojtts6hq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.307188946999-1uoem5fctrv5fe44n31oci2iojtts6hq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>307188946999-p0ufj459h777hd2v2s9lcee5a1b8lbcu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCux-BWXsvaNhXKBfxI3aVoJpUINapQE4Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>307188946999</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zaradustraglobal.circle</string>
+	<key>PROJECT_ID</key>
+	<string>circlestest4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>circlestest4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:307188946999:ios:732e5b0d668708896d87b2</string>
+	<key>DATABASE_URL</key>
+	<string>https://circlestest4.firebaseio.com</string>
+</dict>
+</plist>
